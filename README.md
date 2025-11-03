@@ -71,7 +71,7 @@ The app blends **AI intelligence** with **elegant green-gradient visuals**, ensu
 | `/assets` | High-fidelity app screens & wireframes |
 | `/presentation` | Final PPT case study |
 | `README.md` | Project overview and documentation |
-| `/figma` | Figma file link (add once uploaded) |
+
 
 ---
 
@@ -96,7 +96,7 @@ You may use or modify it for educational and personal purposes.
 
 ---
 
-**Designed by:** Venkatesh V  
+**Designed by:** Venkatesh R 
 **University:** Anna University – AMCET  
 **Project:** UI/UX Case Study on AI-Powered Podcast Translation  
 """
