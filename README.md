@@ -35,7 +35,7 @@ The app blends **AI intelligence** with **elegant green-gradient visuals**, ensu
 > Designed using a **green-to-teal gradient theme** for a futuristic, eco-friendly aesthetic.
 ---
 ### Podcast Player & *AI Transcript
-![UI Preview](UI.png)
+![UI Preview](ui.png)
 
 ---
 
